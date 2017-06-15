@@ -1,0 +1,6 @@
+安装 Java
+
+​Java JDK
+Java SE Development Kit 8
+
+jre
