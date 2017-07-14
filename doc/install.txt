@@ -2,5 +2,38 @@
 
 ​Java JDK
 Java SE Development Kit 8
+java 开发工具箱
+
+www.oracle.com/technetwork/java/javase/downloads
 
 jre
+
+java 术语：
+- Java Development Kit
+JDK 编写 java 程序的程序员使用的软件
+
+- Java Runtime Environment
+JRE 运行 Java 程序的用户使用的软件
+
+- Standard Edition
+标准版本
+SE 用于桌面或简单的服务器应用的 Java 平台
+
+- Enterprise Edition
+企业版本
+EE 用于复杂的服务器应用的 Java 平台
+
+- Micro Edition
+ME 用于手机和其他小型设备的 Java 平台
+
+- Java 2
+J2 一个过时的术语，用于描述 1998 年 ~ 2006 年之间的 Java 版本
+
+- Software Development Kit
+SDK 一个过时的术语，用于描述 1998 年 ~ 2006 年之间的 JDK
+
+- Update
+u Oracle 术语，用于发布修改的 bug
+
+- NetBeans
+Oracle 的集成开发环境
